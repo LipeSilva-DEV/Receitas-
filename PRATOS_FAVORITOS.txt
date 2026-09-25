@@ -1,0 +1,6 @@
+	# Pratos Favoritos 
+		- Hamburguer 
+		- Pizza
+		- Parmegiana 
+		- Feijoada 
+		- Batido de Abóbora 
